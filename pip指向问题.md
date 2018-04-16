@@ -22,8 +22,8 @@ You should consider upgrading via the 'pip install --upgrade pip' command.`这�
 
 > `#!/usr/bin/python`
 
-* 将第一行 #!/usr/bin/python3 修改为
+* 将第一行 #!/usr/bin/python 修改为
 
-> `#!/usr/bin/python2`
+> `#!/usr/bin/python3`
 
 然后pip 就指向python3了
